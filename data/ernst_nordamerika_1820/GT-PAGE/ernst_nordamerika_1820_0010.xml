@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:11:09</Created>
 	<LastChange>2023-09-19T11:22:10</LastChange></Metadata>
-	<Page imageFilename="../jpg/ernst_nordamerika_1820_0010.jpg" imageWidth="1498" imageHeight="2274" type="content">
+	<Page imageFilename="jpg/ernst_nordamerika_1820_0010.jpg" imageWidth="1498" imageHeight="2274" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>

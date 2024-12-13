@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:11:29</Created>
 	<LastChange>2023-09-29T13:15:45</LastChange></Metadata>
-	<Page imageFilename="../jpg/fiedler_kuenstlerische_1887_0033.jpg" imageWidth="1865" imageHeight="2602" type="content">
+	<Page imageFilename="jpg/fiedler_kuenstlerische_1887_0033.jpg" imageWidth="1865" imageHeight="2602" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>

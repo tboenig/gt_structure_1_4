@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:11:23</Created>
 	<LastChange>2023-09-29T13:59:49</LastChange></Metadata>
-	<Page imageFilename="../jpg/feuerbach_recht_1801_0025.jpg" imageWidth="1946" imageHeight="2717" type="table-of-contents">
+	<Page imageFilename="jpg/feuerbach_recht_1801_0025.jpg" imageWidth="1946" imageHeight="2717" type="table-of-contents">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>
