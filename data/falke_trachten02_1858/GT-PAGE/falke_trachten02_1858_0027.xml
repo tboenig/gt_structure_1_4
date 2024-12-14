@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:11:17</Created>
 	<LastChange>2023-10-06T14:22:06</LastChange></Metadata>
-	<Page imageFilename="../jpg/falke_trachten02_1858_0027.jpg" imageWidth="1857" imageHeight="2543" type="content">
+	<Page imageFilename="jpg/falke_trachten02_1858_0027.jpg" imageWidth="1857" imageHeight="2543" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>

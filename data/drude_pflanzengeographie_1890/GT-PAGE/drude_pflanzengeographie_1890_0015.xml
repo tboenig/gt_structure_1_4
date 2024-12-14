@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:10:53</Created>
 	<LastChange>2023-09-18T14:47:19</LastChange></Metadata>
-	<Page imageFilename="../jpg/drude_pflanzengeographie_1890_0015.jpg" imageWidth="2054" imageHeight="2741" type="content">
+	<Page imageFilename="jpg/drude_pflanzengeographie_1890_0015.jpg" imageWidth="2054" imageHeight="2741" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_2" index="0"/>

@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:10:40</Created>
 	<LastChange>2023-09-29T12:21:05</LastChange></Metadata>
-	<Page imageFilename="../jpg/dilthey_geisteswissenschaften_1883_0326.jpg" imageWidth="1574" imageHeight="2591" type="content">
+	<Page imageFilename="jpg/dilthey_geisteswissenschaften_1883_0326.jpg" imageWidth="1574" imageHeight="2591" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>

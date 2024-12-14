@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:38:40</Created>
 	<LastChange>2023-10-06T17:16:35</LastChange></Metadata>
-	<Page imageFilename="../jpg/fassmann_narr_1729_0050.jpg" imageWidth="2411" imageHeight="3239" type="content">
+	<Page imageFilename="jpg/fassmann_narr_1729_0050.jpg" imageWidth="2411" imageHeight="3239" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>
